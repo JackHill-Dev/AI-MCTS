@@ -1,0 +1,10 @@
+{
+ "Audio": {
+  "master-volume": 64
+ },
+ "Display": {
+  "Height": 720,
+  "Width": 1280,
+  "fullscreen": false
+ }
+}
